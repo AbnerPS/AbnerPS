@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/6d/17/0a6d178e41c5b220708f2e84d6ac56c2.jpg" alt="Header"/>
+  <img src="https://i.pinimg.com/originals/0a/6d/17/0a6d178e41c5b220708f2e84d6ac56c2.jpg" width="500" alt="Header"/>
 </p>
 
 ## Oi, eu sou o Abner 👨🏽‍💻
@@ -13,7 +13,7 @@ Sou um devenvolvedor Full Stack apaixonado por tecnologia 😍
 - Node
 - Laravel
 
-### Banco de dados
+### 🏛 Banco de dados
 
 - MySQL
 - SQL Server
