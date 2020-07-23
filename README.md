@@ -6,7 +6,7 @@
 
 Sou um devenvolvedor Full Stack apaixonado por tecnologia 😍
 
-### ⚛️Linguagens de programação
+### ⚛️Frameworks de programação
 
 - React
 - React Native
