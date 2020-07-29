@@ -1,41 +1,36 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/0a/6d/17/0a6d178e41c5b220708f2e84d6ac56c2.jpg" width="500" alt="Header"/>
+  <img src="https://fontmeme.com/permalink/200729/15343bfdab9adb669cf74c8e190227ed.png" width="200" alt="Header"/>
 </p>
 
 ## Oi, eu sou o Abner 👨🏽‍💻
 
+**Seja muito bem vindo ao meu Github.**
 Sou um devenvolvedor Full Stack apaixonado por tecnologia 😍
+Aqui você vai encontrar meus projetos pessoais e profissionais e conhecer melhor minhas habilidades.
 
-### ⚛️Frameworks de programação
+### ⚛️ Tecnologias
 
 - React
 - React Native
 - Node
 - Laravel
-
-### 🏛 Banco de dados
-
 - MySQL
-- SQL Server
-- SQLite
-- Firebase
+
 
 <p align="center">
-
-  <a href="https://github.com/AbnerPS" target="_blank" >
-      <img alt="Github" src="https://img.shields.io/badge/Github--%23F8952D?style=social&logo=github">
-  </a> 
-
-  <a href="https://www.instagram.com/abner.p.s/" target="_blank" >
-      <img alt="Instagram" src="https://img.shields.io/badge/Instagram--%23F8952D?style=social&logo=instagram">
-  </a> 
-
-  <a href="https://www.facebook.com/AbnerGuthiwill" target="_blank" >
-      <img alt="Facebook" src="https://img.shields.io/badge/Facebook--%23F8952D?style=social&logo=facebook">
-  </a> 
-
-  <a href="https://www.linkedin.com/in/abner-pereira-silva-8715a326/" target="_blank" >
-      <img alt="Linkedin" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
+  <a href="https://github.com/AbnerPS" target="__blank">
+    <img src="https://img.shields.io/badge/-Github-24292E?style=flat-square&labelColor=24292E&logo=github&logoColor=white" alt="Github" />
   </a>
 
+  <a href="https://www.linkedin.com/in/abner-pereira-silva-8715a326/" target="__blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="https://codepen.io/Abner_Silva" target="__blank">
+    <img src="https://img.shields.io/badge/-Codepen-0ead69?style=flat-square&labelColor=0ead69&logo=codepen&logoColor=white" alt="Codepen" />
+  </a>
+
+  <a href="https://www.facebook.com/AbnerGuthiwill/" target="__blank">
+    <img src="https://img.shields.io/badge/-Facebook-d7263d?style=flat-square&labelColor=d7263d&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
 </p>
