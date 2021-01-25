@@ -15,6 +15,7 @@ Aqui você vai encontrar meus projetos pessoais e profissionais e conhecer melho
 - Node
 - Laravel
 - MySQL
+- Vuejs
 
 
 <p align="center">
