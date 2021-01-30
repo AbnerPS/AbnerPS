@@ -5,8 +5,22 @@
 ## Oi, eu sou o Abner 👨🏽‍💻
 
 **Seja muito bem vindo ao meu Github.**
-Sou um devenvolvedor Full Stack apaixonado por tecnologia 😍
-Aqui você vai encontrar meus projetos pessoais e profissionais e conhecer melhor minhas habilidades.
+Aqui você vai encontrar meus projetos pessoais e assim conhecer melhor minhas habilidades.
+Sou um devenvolvedor Full Stack Junior apaixonado por tecnologia. 😍
+Atualmente estou cursando a gradução em Ciência da Computação.
+
+### 📊 Estatísticas do Github
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbnerPS&bg_color=161B22&text_color=fff&show_icons=true&custom_title=Development+Statistics+-+Abner+Pereira+Silva)](https://github.com/AbnerPS/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbnerPS&layout=compact&bg_color=161B22&text_color=fff)](https://github.com/AbnerPS/github-readme-stats)
+
+### 🖥 Linguagens
+
+- JavaScript
+- PHP
+- Java
+- HTML
+- CSS
+- SQL
 
 ### ⚛️ Tecnologias
 
@@ -17,6 +31,7 @@ Aqui você vai encontrar meus projetos pessoais e profissionais e conhecer melho
 - MySQL
 - Vuejs
 
+<hr/>
 
 <p align="center">
   <a href="https://github.com/AbnerPS" target="__blank">
