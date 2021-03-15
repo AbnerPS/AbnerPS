@@ -17,9 +17,6 @@ Atualmente estou cursando a gradução em Ciência da Computação.
 
 - JavaScript
 - PHP
-- Java
-- HTML
-- CSS
 - SQL
 
 ### ⚛️ Tecnologias
