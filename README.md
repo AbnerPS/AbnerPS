@@ -6,8 +6,7 @@
 
 **Seja muito bem vindo ao meu Github.**
 Aqui você vai encontrar meus projetos pessoais e assim conhecer melhor minhas habilidades.
-Sou um devenvolvedor Full Stack Junior apaixonado por tecnologia. 😍
-Atualmente estou cursando a gradução em Ciência da Computação.
+Sou um devenvolvedor Full Stack Junior graduado em Ciência da Computação apaixonado por tecnologia. 😍
 
 ### 📊 Estatísticas do Github
 
