@@ -14,19 +14,25 @@ Sou um devenvolvedor Full Stack Junior graduado em Ciência da Computação apai
 
 ### 🖥 Linguagens
 
-- JavaScript
+- Javascript/Typescript
 - PHP
 - SQL
 
 ### ⚛️ Tecnologias
 
-- React
-- React Native
+#### Back-end
 - Node
 - Laravel
-- MySQL
+#### Front-end
 - Vuejs
-
+#### Banco de Dados
+- MySQL
+- Mongodb
+#### Outros
+- Jenkins (CD/CI)
+- RabbitMQ
+- Socket
+  
 <hr/>
 
 <p align="center">
