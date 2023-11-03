@@ -6,7 +6,7 @@
 
 **Seja muito bem vindo ao meu Github.**
 Aqui você vai encontrar meus projetos pessoais e assim conhecer melhor minhas habilidades.
-Sou um devenvolvedor Full Stack Junior graduado em Ciência da Computação apaixonado por tecnologia. 😍
+Sou um devenvolvedor Full Stack graduado em Ciência da Computação e apaixonado por tecnologia. 😍
 
 ### 📊 Estatísticas do Github
 
@@ -16,7 +16,6 @@ Sou um devenvolvedor Full Stack Junior graduado em Ciência da Computação apai
 
 - Javascript/Typescript
 - PHP
-- SQL
 
 ### ⚛️ Tecnologias
 
@@ -28,10 +27,12 @@ Sou um devenvolvedor Full Stack Junior graduado em Ciência da Computação apai
 #### Banco de Dados
 - MySQL
 - Mongodb
+- Redis
 #### Outros
 - Jenkins (CD/CI)
 - RabbitMQ
-- Socket
+- WebSocket
+- Docker
   
 <hr/>
 
